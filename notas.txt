@@ -1,0 +1,3 @@
+//algoritmo.. serie de pasos para resolver un problema
+
+//javascript... es un lenguaje de programacion, interpretado
